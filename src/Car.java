@@ -1,6 +1,6 @@
 public class Car {
 
-    private String carName = "";
+    private String carName = "Default";
 
 
     public Car() {
