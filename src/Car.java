@@ -5,6 +5,7 @@ public class Car {
 
     public Car() {
         this.carName = "4Runner";
+        
     }
 
     public String getCarName() {
