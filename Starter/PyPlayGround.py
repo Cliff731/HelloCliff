@@ -19,6 +19,9 @@ f = math.factorial(5)
 print ('factorial of 5 = ', f)
 print (type(f))
 
+age = math.factorial(3)
+print ('age = ', age)
+
 
 print ('bye python')
 
